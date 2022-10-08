@@ -1,8 +1,8 @@
 # Pseudo-Noise-Sequence-to-Triangular-and-Sinusoidal-Wave-Converter
 ## Table of Contents
-1 Abstract 
-2 Reference Circuit Design
-3 Reference Waveforms
+1. Abstract 
+2. Reference Circuit Design
+3. Reference Waveforms
 4 Circuit Details
 5 Softwares Used
 6 Circuit Diagram in eSim
