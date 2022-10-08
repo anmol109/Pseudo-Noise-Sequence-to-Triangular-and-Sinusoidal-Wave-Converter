@@ -58,20 +58,20 @@ Triangular Wave Output
 
 PN Sequence input
 ### Steps to run generate NgVeri Model
-Open eSim
-Run NgVeri-Makerchip
-Add top level verilog file in Makerchip Tab
-Click on NgVeri tab
-Add dependency files
-Click on Run Verilog to NgSpice Converter
-Debug if any errors
-Model created successfully
++ Open eSim
++ Run NgVeri-Makerchip
++ Add top level verilog file in Makerchip Tab
++ Click on NgVeri tab
++ Add dependency files
++ Click on Run Verilog to NgSpice Converter
++ Debug if any errors
++ Model created successfully
 ## Acknowlegdements
-FOSSEE, IIT Bombay
-Steve Hoover, Founder, Redwood EDA
-Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd. - kunalpghosh@gmail.com
-Sumanto Kar, eSim Team, FOSSEE
++ FOSSEE, IIT Bombay
++ Steve Hoover, Founder, Redwood EDA
++ Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd. - kunalpghosh@gmail.com
++ Sumanto Kar, eSim Team, FOSSEE
 
 ##	References
-https://www.engineersgarage.com/waveform-converter-circuits/
-http://tjeyamy.blogspot.com/2012/05/pseudo-random-sequence-generator-in.html
++ https://www.engineersgarage.com/waveform-converter-circuits/
++ http://tjeyamy.blogspot.com/2012/05/pseudo-random-sequence-generator-in.html
