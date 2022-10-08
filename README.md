@@ -40,22 +40,16 @@ For more details refer:
 https://skywater-pdk.readthedocs.io/en/main/#
 ## Circuit Diagram in eSim
 ![image](https://user-images.githubusercontent.com/67062356/194713981-c4075dd3-745a-4a6f-b0c2-770409b8bb9b.png)
-
 ### Verilog Code
 ![image](https://user-images.githubusercontent.com/67062356/194714127-270a2025-8f15-40fd-babe-b0df42129650.png)
-
 ### MakerChip Output
 ![image](https://user-images.githubusercontent.com/67062356/194714163-9c70828b-7646-4696-b768-dd03ac7e0ea1.png)
-
 ### Netlist
 ![image](https://user-images.githubusercontent.com/67062356/194714192-03556dbb-87f4-4439-8434-246879264ae3.png)
-
 ### NGSpice Plots
 ![image](https://user-images.githubusercontent.com/67062356/194714497-2709d933-ad76-464d-8e6b-1522d25e8f75.png)
-
 Triangular Wave Output
 ![image](https://user-images.githubusercontent.com/67062356/194714527-2b2383e5-5def-43ad-962b-69f942be29ea.png)
-
 PN Sequence input
 ### Steps to run generate NgVeri Model
 + Open eSim
