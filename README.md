@@ -1,6 +1,6 @@
 # Pseudo-Noise-Sequence-to-Triangular-and-Sinusoidal-Wave-Converter
 ## Table of Contents
-Abstract
+Abstract \n
 Reference Circuit Design
 Reference Waveforms
 Circuit Details
