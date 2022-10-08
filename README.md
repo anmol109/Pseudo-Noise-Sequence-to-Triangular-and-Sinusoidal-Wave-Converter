@@ -14,11 +14,9 @@
 This project aims at the realisation of a device which converts a PN Sequence to a Triangular as well as Sinusoidal Wave. An implementation of a mixed signal design, this may find various applications. The PN Sequence generator is written in verilog and foprms the digital part of the circuit wheras the conversion to triangular and sinusoid forms the analog part. Due to certain constraints, the output for the sinusoid wave could not be obtained hence the design stands errenous.
 ## Reference Circuit Design
 ![image](https://user-images.githubusercontent.com/67062356/194713623-ecf67077-c2d1-4375-8712-71fecaea58f2.png)
-
-[Digital Circuit Design part]
-![image](https://user-images.githubusercontent.com/67062356/194713644-b55bddd1-6d21-4c40-a66a-5605b8f0f4e7.png
-
-"Analog Circuit Design part")
+Digital Circuit Design part
+![image](https://user-images.githubusercontent.com/67062356/194713644-b55bddd1-6d21-4c40-a66a-5605b8f0f4e7.png)
+Analog Circuit Design part
 ## Reference Waveform
 ![alt text](https://user-images.githubusercontent.com/67062356/194713703-96e84045-1c3e-4be2-8ecd-29b54bb35e35.png)
 
