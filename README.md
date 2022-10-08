@@ -49,7 +49,7 @@ https://skywater-pdk.readthedocs.io/en/main/#
 ### NGSpice Plots
 ![image](https://user-images.githubusercontent.com/67062356/194723098-e88bc976-1d27-4725-8b97-b5c07511140e.png)
 Triangular Wave Output
-![image](https://user-images.githubusercontent.com/67062356/194714527-2b2383e5-5def-43ad-962b-69f942be29ea.png)
+![image](https://user-images.githubusercontent.com/67062356/194723125-f600f7ff-3478-4be1-b2f1-ae552fc113f7.png)
 PN Sequence input
 ### Steps to run generate NgVeri Model
 + Open eSim
