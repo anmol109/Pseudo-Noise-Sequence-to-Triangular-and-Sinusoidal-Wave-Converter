@@ -16,9 +16,9 @@ This project aims at the realisation of a device which converts a PN Sequence to
 ![image](https://user-images.githubusercontent.com/67062356/194713623-ecf67077-c2d1-4375-8712-71fecaea58f2.png)
 
 [Digital Circuit Design part]
-![image](https://user-images.githubusercontent.com/67062356/194713644-b55bddd1-6d21-4c40-a66a-5605b8f0f4e7.png)
+![image](https://user-images.githubusercontent.com/67062356/194713644-b55bddd1-6d21-4c40-a66a-5605b8f0f4e7.png
 
-Analog Circuit Design part
+"Analog Circuit Design part")
 ## Reference Waveform
 ![image](https://user-images.githubusercontent.com/67062356/194713703-96e84045-1c3e-4be2-8ecd-29b54bb35e35.png)
 
