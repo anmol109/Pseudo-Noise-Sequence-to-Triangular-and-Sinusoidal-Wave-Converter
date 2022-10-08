@@ -3,13 +3,13 @@
 1. Abstract 
 2. Reference Circuit Design
 3. Reference Waveforms
-4 Circuit Details
-5 Softwares Used
-6 Circuit Diagram in eSim
-7 Netlists
-8 NgSpice Plots
-9 Acknowlegdements
-10 References
+4. Circuit Details
+5. Softwares Used
+6. Circuit Diagram in eSim
+7. Netlists
+8. NgSpice Plots
+9. Acknowlegdements
+10. References
 ##  Abstract
 This project aims at the realisation of a device which converts a PN Sequence to a Triangular as well as Sinusoidal Wave. An implementation of a mixed signal design, this may find various applications. The PN Sequence generator is written in verilog and foprms the digital part of the circuit wheras the conversion to triangular and sinusoid forms the analog part. Due to certain constraints, the output for the sinusoid wave could not be obtained hence the design stands errenous.
 ## Reference Circuit Design
