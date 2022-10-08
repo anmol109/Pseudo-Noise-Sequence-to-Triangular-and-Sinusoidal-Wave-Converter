@@ -1,6 +1,6 @@
 # Pseudo-Noise-Sequence-to-Triangular-and-Sinusoidal-Wave-Converter
 ## Table of Contents
-Abstract \n
+Abstract 
 Reference Circuit Design
 Reference Waveforms
 Circuit Details
@@ -46,6 +46,23 @@ https://skywater-pdk.readthedocs.io/en/main/#
 ![image](https://user-images.githubusercontent.com/67062356/194714163-9c70828b-7646-4696-b768-dd03ac7e0ea1.png)
 ### Netlist
 ![image](https://user-images.githubusercontent.com/67062356/194714192-03556dbb-87f4-4439-8434-246879264ae3.png)
-
-
+### NGSpice Plots
+![image](https://user-images.githubusercontent.com/67062356/194714497-2709d933-ad76-464d-8e6b-1522d25e8f75.png)
+Triangular Wave Output
+![image](https://user-images.githubusercontent.com/67062356/194714527-2b2383e5-5def-43ad-962b-69f942be29ea.png)
+PN Sequence input
+### Steps to run generate NgVeri Model
+Open eSim
+Run NgVeri-Makerchip
+Add top level verilog file in Makerchip Tab
+Click on NgVeri tab
+Add dependency files
+Click on Run Verilog to NgSpice Converter
+Debug if any errors
+Model created successfully
+### Acknowlegdements
+FOSSEE, IIT Bombay
+Steve Hoover, Founder, Redwood EDA
+Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd. - kunalpghosh@gmail.com
+Sumanto Kar, eSim Team, FOSSEE
 
