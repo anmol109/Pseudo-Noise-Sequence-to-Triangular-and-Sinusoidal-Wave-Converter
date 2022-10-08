@@ -1,0 +1,4905 @@
+optran: no such command available in ngspice
+
+Compatibility modes selected: hs a
+
+Warning: m=xx on .subckt line will override multiplier m hierarchy!
+
+Warning: redefinition of .subckt sky130_fd_pr__model__parasitic__res_po, ignored
+Warning: redefinition of .subckt sky130_fd_pr__res_xhigh_po, ignored
+Warning: redefinition of .subckt sky130_fd_pr__res_high_po, ignored
+Warning: redefinition of .subckt sky130_fd_pr__res_xhigh_po_0p35, ignored
+Warning: redefinition of .subckt sky130_fd_pr__res_xhigh_po_0p69, ignored
+Warning: redefinition of .subckt sky130_fd_pr__res_xhigh_po_1p41, ignored
+Warning: redefinition of .subckt sky130_fd_pr__res_xhigh_po_2p85, ignored
+Warning: redefinition of .subckt sky130_fd_pr__res_xhigh_po_5p73, ignored
+Warning: redefinition of .subckt sky130_fd_pr__res_xhigh_po__base, ignored
+Warning: redefinition of .subckt sky130_fd_pr__res_high_po_0p35, ignored
+Warning: redefinition of .subckt sky130_fd_pr__res_high_po_0p69, ignored
+Warning: redefinition of .subckt sky130_fd_pr__res_high_po_1p41, ignored
+Warning: redefinition of .subckt sky130_fd_pr__res_high_po_2p85, ignored
+Warning: redefinition of .subckt sky130_fd_pr__res_high_po_5p73, ignored
+Warning: redefinition of .subckt sky130_fd_pr__pnp_05v5_w0p68l0p68, ignored
+Warning: redefinition of .subckt sky130_fd_pr__res_generic_po, ignored
+Warning: redefinition of .subckt sky130_fd_pr__res_generic_nd, ignored
+Warning: redefinition of .subckt sky130_fd_pr__res_generic_pd, ignored
+
+Circuit: * /home/cosmosanmol/esim-workspace/pnseq/pnseq.cir
+
+option SCALE: Scale is set to 1e-06 for instance and model parameters
+Warning: Model issue on line 27 :
+  .model sky130_fd_pr__model__parasitic__diode_ps2nw d level=3.0 tlevc=1.0 ...
+unrecognized parameter (vb) - ignored
+unrecognized parameter (gap1) - ignored
+unrecognized parameter (gap2) - ignored
+unrecognized parameter (xw) - ignored
+Reducing trtol to 1 for xspice 'A' devices
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Warning: include: has no value, DC 0 assumed
+Warning: v1: no DC value, transient time 0 value used
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=0
+
+No. of Data Rows : 11529
+ERROR: (internal)  This operation is not defined for display type PrinterOnly.
+Can't open viewport for graphics.
+ERROR: (internal)  This operation is not defined for display type PrinterOnly.
+Can't open viewport for graphics.
+binary raw file "/home/cosmosanmol/eSim-Workspace/pnSeq/pnSeq.raw"
+Reducing trtol to 1 for xspice 'A' devices
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Warning: include: has no value, DC 0 assumed
+Warning: v1: no DC value, transient time 0 value used
+No. of Data Columns : 44  
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=1
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+s3=0
+=============pn : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+s3=0
+
+Inside foo after eval.....
+clk=0
+reset=0
+s3=0
+
+No. of Data Rows : 11531
+
+Total analysis time (seconds) = 1.37976
+
+Total CPU time (seconds) = 12.721 
+
+Total DRAM available = 257855.305 MB.
+DRAM currently available = 222867.051 MB.
+Maximum ngspice program size =  393.820 MB.
+Current ngspice program size =  330.719 MB.
+
+Shared ngspice pages =    8.926 MB.
+Text (code) pages =    6.285 MB.
+Stack = 0 bytes.
+Library pages =  322.465 MB.
+

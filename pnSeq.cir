@@ -1,0 +1,23 @@
+* /home/cosmosanmol/eSim-Workspace/pnSeq/pnSeq.cir
+
+* EESchema Netlist Version 1.1 (Spice format) creation date: Sat 08 Oct 2022 11:49:03 PM IST
+
+* To exclude a component from the Spice Netlist add [Spice_Netlist_Enabled] user FIELD set to: N
+* To reorder the component spice node sequence add [Spice_Node_Sequence] user FIELD and define sequence: 2,1,0
+
+* Sheet Name: /
+U1  Net-_U1-Pad1_ GND Net-_U1-Pad3_ pn		
+v1  Net-_U4-Pad1_ GND pulse		
+U3  out plot_v1		
+U4  Net-_U4-Pad1_ Net-_U1-Pad1_ adc_bridge_1		
+U5  Net-_U1-Pad3_ Net-_SC1-Pad2_ dac_bridge_1		
+X1  Net-_X1-Pad1_ Net-_X1-Pad2_ out GND triwav GND avsd_opamp		
+U6  triwav plot_v1		
+v2  Net-_X1-Pad1_ GND DC		
+v3  Net-_X1-Pad2_ GND DC		
+scmode1  SKY130mode		
+SC3  out triwav sky130_fd_pr__cap_mim_m3_1		
+SC1  out Net-_SC1-Pad2_ Net-_SC1-Pad2_ sky130_fd_pr__res_generic_pd		
+SC2  ? out out sky130_fd_pr__res_generic_pd		
+
+.end
