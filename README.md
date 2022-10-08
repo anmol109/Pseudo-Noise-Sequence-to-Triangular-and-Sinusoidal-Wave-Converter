@@ -47,7 +47,7 @@ https://skywater-pdk.readthedocs.io/en/main/#
 ### Netlist
 ![image](https://user-images.githubusercontent.com/67062356/194714192-03556dbb-87f4-4439-8434-246879264ae3.png)
 ### NGSpice Plots
-![image](https://user-images.githubusercontent.com/67062356/194714497-2709d933-ad76-464d-8e6b-1522d25e8f75.png)
+![image](https://user-images.githubusercontent.com/67062356/194723098-e88bc976-1d27-4725-8b97-b5c07511140e.png)
 Triangular Wave Output
 ![image](https://user-images.githubusercontent.com/67062356/194714527-2b2383e5-5def-43ad-962b-69f942be29ea.png)
 PN Sequence input
